@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three js - R3F - Blender**
 
-- 👨‍💻 All of my projects are available at [chrisdash.vercel.app](chrisdash.vercel.app)
+- 👨‍💻 All of my projects are available at (https://chrisdash.vercel.app/)
 
 - 💬 Ask me about **R3F - Gsap - Blender**
 
