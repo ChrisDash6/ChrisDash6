@@ -1,15 +1,54 @@
-<h2 align="center">Chris Dash here, welcome to my GitHub profile! - Front End Web Developer, UI/UX Designer, SEO Specialist</h2>
-<h5 align="center">I'm Chris Dash, a passionate Front End Web Developer with expertise in UI/UX design and SEO optimization. I'm particularly interested in exploring the exciting world of 3D web development, pushing the boundaries of web technology to create immersive and engaging user experiences.</h5>
+<h2 align="center">👋 Hi there, I'm MANIRAKIZA Christian! Welcome to my GitHub Profile 🌟</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisdash6&label=Profile%20views&color=0e75b6&style=flat" alt="chrisdash6" /> </p>
+<h4 align="center">Full-Stack & Flutter Developer | UI/UX Designer | SEO Specialist</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisdash6" alt="chrisdash6" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Three js - R3F - Blender**
+<h5 align="center">
+  Passionate about crafting responsive web and mobile applications, I specialize in Flutter, Next.js, and Node.js. 
+  My expertise extends to designing user-centric interfaces and enhancing online visibility with effective SEO strategies. 
+  I'm driven by the goal of delivering innovative solutions that seamlessly blend functionality with aesthetics.
+</h5>
 
-- 👨‍💻 All of my projects are available at **https://chrisdash.vercel.app/**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chrisdash6&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 💬 Ask me about **R3F - Gsap - Blender**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chrisdash6&margin-w=15&column=7&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 **Currently Exploring:** Three.js, React Three Fiber (R3F), and Blender for immersive 3D experiences.  
+- 👨‍💻 **Portfolio:** [chrisdash.vercel.app](https://chrisdash.vercel.app/)  
+- 💬 **Ask Me About:** R3F, GSAP, Blender, Flutter, and modern web/mobile development.  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, Tailwind CSS, Flutter, HTML/CSS  
+- **Backend:** Node.js, Firebase, Express.js  
+- **Tools & Platforms:** Git, Figma, Blender, GSAP, R3F  
+- **Specializations:** UI/UX Design, SEO, Responsive Design  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisdash6&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdash6&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 - 📫 How to reach me **christdash6@gmail.com**
 
