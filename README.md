@@ -56,7 +56,8 @@
 
 - ⚡ Fun fact **i am Batman**
 
-🌟 Connect with Me
+### 🌟 Connect with Me
+
 <p align="left"> <a href="https://dev.to/inkdash6" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a> <a href="https://linkedin.com/in/manirakiza-christian" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </p>
 
 ### 🛠️ Languages and Tools
