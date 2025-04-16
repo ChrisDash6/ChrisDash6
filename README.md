@@ -1,13 +1,11 @@
 <h2 align="center">👋 Hi there, I'm MANIRAKIZA Christian! Welcome to my GitHub Profile 🌟</h2>
 
-<h4 align="center">Full-Stack & Flutter Developer | UI/UX Designer | SEO Specialist</h4>
+<h4 align="center">Senior Full-Stack Web Developer</h4>
 
 ---
 
 <h5 align="center">
-  Passionate about crafting responsive web and mobile applications, I specialize in Flutter, Next.js, and Node.js. 
-  My expertise extends to designing user-centric interfaces and enhancing online visibility with effective SEO strategies. 
-  I'm driven by the goal of delivering innovative solutions that seamlessly blend functionality with aesthetics.
+ I’m a senior full-stack web  developer who loves building smooth, user-friendly apps that make a real impact. With experience in Next.js, Node.js, and UI/UX design, I focus on creating seamless experiences that not only look great but also work effortlessly. I’m also big on SEO, helping businesses improve their online presence. At the core, I just enjoy solving problems, building cool things, and making tech more accessible for everyone
 </h5>
 
 <p align="center">
@@ -33,7 +31,7 @@
 ### 🛠️ Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS, Flutter, HTML/CSS  
-- **Backend:** Node.js, Firebase, Express.js  
+- **Backend:** Node.js, Express.js  
 - **Tools & Platforms:** Git, Figma, Blender, GSAP, R3F  
 - **Specializations:** Front-end , UI/UX Design, SEO, Responsive Design  
 
